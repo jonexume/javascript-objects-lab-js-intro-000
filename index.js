@@ -1,3 +1,3 @@
 var recipes = {};
 
-var updateObjectWithKeyAndValue = { dinner: "Sandwich"};
+var updateObjectWithKeyAndValue = {dinner: "Sandwich"};
